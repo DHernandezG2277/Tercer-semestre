@@ -1,0 +1,12 @@
+1 Pedro 25 43 27
+2 Juliana 48 32 36
+3 Luis 17 42 34
+4 Juan 36 28 50
+5 Enrique 42 27 11
+6 Mauricio 41 28 33
+7 Mariano 22 29 31
+8 Pablo 22 35 36
+9 Juana 35 28 50
+10 Susana 42 31 20
+11 Daniel 10 50 31
+12 Dilan 20 45 42
